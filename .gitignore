@@ -1,0 +1,25 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# IDEs
+.idea/
+.vscode/
+
+# Platform-specific
+android/.gradle/
+ios/Flutter/.symlinks
+macos/
+windows/
+web/
+build/
+
+
+# Other
+*.iml
+*.lock
+*.log
+*.tmp
+*.swp
